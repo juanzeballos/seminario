@@ -1,0 +1,66 @@
+.principal{
+background:url('fondo8.jpg');
+}
+.secundaria{
+background:url('fondo7.jpg');
+			
+}	
+.derecha{
+	text-align: center;
+	
+}
+
+.titulo{ text-shadow: #F0CE6A 0.2em 0.3em 0.2em;
+	font-size: 50px;
+	text-align: center;
+			 }
+
+
+.enlace {
+	color:#81817C;
+	background: #F0E192;
+	padding: 5px 10px;
+	box-shadow: #BE8E2D 0px 03px 0px;
+	font-size: 20;
+	text-align: center;
+}
+.enlace :hover{
+	text-decoration: underline;
+
+
+}
+.enlace  :active{
+		background: white;
+		color: black;
+}
+.menu-activo :active{
+	background-color: #6c757d !important;
+}
+
+.botones{
+  padding: .375rem .75rem;
+  border: 1px solid #EBC038;
+  border-radius: .25rem;
+  color:#BE8E2D;
+  background-color: #F3F0E5;
+}
+
+		
+.opcion  {
+	padding: .375rem .75rem;
+	border: 1px solid #EBC038;
+ 	border-radius: .25rem;
+  	color:#BE8E2D;
+    background-color: #F0E192;
+}
+
+.formu{
+	background-color:  #F3F0E5	; 
+}		
+
+.serif{
+	font:serif;
+}
+.arial{
+	font-family: sans-serif;
+}
